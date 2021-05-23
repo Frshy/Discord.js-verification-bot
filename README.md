@@ -7,7 +7,6 @@ Feel free to edit the code and if you want you can pull request if you have done
 1. You have to create new node.js project with discord.js module installed. <br>
 2. Go to config.json and set the config here. <br>
 3. Just launch run bot :D! <br>
-4. Gimme star plz <br>
 
 <h2>NOTE | IMPORTANT</h2>
 Remember to lock the verification channel so users cant send messages and use the command, because user doesnt need permissions to use it! :D
