@@ -35,7 +35,7 @@ client.on('messageReactionAdd', (reaction, user) => {
             console.log(`${user.username} (${user.id}) has prolly locked dms`)
         });
     }
-    reaction.message.guild.members.cache.get(user.id).roles.add(config.roleID); //giving a role to user that reacted
+    reaction.message.guild.members.cache.get(user.id).roles.add(config.roleID); //giving a role to user who reacted
 });
 
 client.on('ready', () =>{
