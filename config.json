@@ -1,0 +1,10 @@
+{
+    "cmdName": "verificationSetup",
+    "emojiName": "youremojiname",
+    "verificationChannelID": "",
+    "sendDM": true,
+    "dmMessage": "Verified successfully!",
+    "roleID": "",
+    "thumbnail": "https://thumbnail.com/yourThumbnail.png",
+    "token": ""
+}
