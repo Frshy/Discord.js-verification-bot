@@ -1,6 +1,7 @@
 # discord.js-reaction-verification-bot
 Simple discord.js verification bot
-This have been coded in a few minutes while eating crisps, so code may be kinda bad, when bot crashes or you just turn it off you have to create new verification message <br>
+This have been coded in a few minutes while eating crisps, so code may be kinda bad. 
+When bot crashes or you just turn it off you have to create new verification message <br>
 Feel free to edit the code and if you want you can pull request if you have done something useful :D <br>
 
 <h2>How to use?</h2>
